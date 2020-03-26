@@ -91,3 +91,16 @@ table {
       .myWelcomeH1, .myWelcomeP, .dayTime{
         text-align: center;
       }
+
+      .lessThen {
+        background-color: gray;
+      }
+
+      .equalTo {
+        background-color: lightcoral;
+      }
+
+      .greaterThen {
+        background-color: lightgreen;
+      }
+      
